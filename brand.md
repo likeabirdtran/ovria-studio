@@ -78,6 +78,11 @@ parfois humoristiques. Directe et ancrée dans le terrain.
 - Contexte secteur : enquête BMO 2026 de France Travail, 65 % des projets de
   recrutement de la construction jugés difficiles (citer la source).
 
+## Identité visuelle (déduit du logo et du compte Instagram, à confirmer)
+- **Couleurs :** fond bleu nuit, « O » du logo en dégradé vert d'eau → violet,
+  texte blanc. Charte officielle (codes couleur, typos) : À COMPLÉTER.
+- **Style :** photos de chantier réelles, visuels d'interface de l'app, ton terrain.
+
 ## Interdits
 - Aucune entreprise ou personne mise en avant sans accord.
 - Aucun chiffre d'utilisateurs, d'offres ou de recrutements inventé.
