@@ -32,6 +32,12 @@ Note : des stories étaient déjà prévues dans Canva pour le 18/11 (« 1 minut
 - Règle : aucune photo d'abonné repartagée sans son accord écrit (DM).
 - Design : https://www.canva.com/d/7aL0hH8h1zCyiYQ (DAHbQtjTKRc)
 
+## Justification stratégique
+
+- **Jeudi, « L'outil que tu prêtes jamais ? »** : une question sur l'attachement à ses outils, que tous les métiers partagent (maçon, électricien, couvreur…). Aucune mauvaise réponse et aucun lien avec la recherche d'emploi, donc pas de frein pour une audience encore froide. Fonction : **connexion**. Comportement visé : un vote en un tap, puis quelques DM (« le mien c'est la pince à dénuder ») qui donnent de la matière pour de futurs contenus.
+- **Vendredi, « Chantier gelé ? T'es indemnisé. »** : on arrive dans la saison du gel, et beaucoup de jeunes ou de nouveaux arrivants ne savent pas qu'un arrêt de chantier pour intempéries est indemnisé. C'est une info concrète, sourcée, qui protège le travailleur et ne vend rien. Fonction : **confiance** (OVRIA est du côté des pros). Comportement visé : capture d'écran, partage à un collègue, vote d'expérience. L'angle (des droits) est différent de la story humour « bonnet sous le casque ».
+- **Samedi, « Ton chantier, ce matin ? »** : le sticker « Ajoute la tienne » transforme l'audience en contributeurs. Chaque réponse est republiée dans la chaîne du sticker et montrée aux abonnés de la personne, ce qui donne de la **portée** gratuite. Ça humanise aussi le compte avec de vrais chantiers. On tombe le week-end, quand les pros ont le temps de regarder leurs photos de la semaine. Comportement visé : publier sa propre photo avec le sticker.
+
 ## Exports
 Les PNG 1080 × 1920 ont été générés, mais les liens Canva sont temporaires. Pour les publier sans rien
 télécharger sur le Mac : ouvre l'app Canva sur ton téléphone, ouvre le design, puis Partager › Instagram (Story).
