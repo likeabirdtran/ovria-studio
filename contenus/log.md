@@ -61,6 +61,9 @@ Dossier stories finalisé (Canva) : `contenus/calendrier/2026-11-18_dossier-stor
 | Sondage dilemme identité métier (neuf / réno, 2 photos) | Lun 23/11 |
 | Info aide embauche apprenti + sondage intention entreprises | Mer 25/11 |
 | Quiz vocabulaire chantier (banche) | Ven 27/11 |
+| Sondage objet fétiche (outil qu'on prête jamais) | Jeu 19/11 |
+| Info droits travailleurs : chômage intempéries + sondage | Ven 20/11 |
+| Sticker « Ajoute la tienne » (photo chantier ce matin) | Sam 21/11 |
 
 ---
 
