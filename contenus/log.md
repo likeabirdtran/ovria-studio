@@ -32,15 +32,17 @@ Fichier stories : `contenus/scripts/2026-11-24_story_semaine-24-28-novembre.md`
 
 | Jour | Format | Pilier | Audience | Sujet / Angle | Statut |
 |---|---|---|---|---|---|
-| Lun 23/11 | Story — La parole aux pros | 4 Communauté | Travailleurs | Sondage : comment t'as trouvé ton dernier chantier ? (passé / concret) | Proposé |
+| Lun 23/11 | Story — La parole aux pros | 4 Communauté | Travailleurs | ~~Sondage dernier chantier~~ → **remplacé 18/11** : dilemme « T'es plutôt neuf ou réno ? » (Canva DAHbQtmIwY8) | Proposé |
 | Mar 24/11 | Reel | 3 Emploi & opps | Travailleurs | 65 % des recrutements BTP jugés difficiles → c'est toi qu'on cherche (BMO France Travail) | Proposé |
-| Mer 25/11 | Story — Le savais-tu? | 3 Emploi & opps | Travailleurs | En hiver, l'électricien et le plombier ne chôment jamais — les chantiers intérieurs continuent | Proposé |
+| Mer 25/11 | Story — Le savais-tu? | 3 Emploi & opps | **Entreprises** | ~~Saisonnalité métiers intérieurs~~ → **remplacé 18/11** : « Jusqu'à 5 000 € d'aide » apprenti (Canva DAHbQoYobWQ) | Proposé |
 | Jeu 26/11 | Carrousel | 3 Emploi & opps | Entreprises | Ton annonce ne sonne pas ? 4 choses à changer | Proposé |
-| Ven 27/11 | Story — La vie du BTP | 4 Communauté | Travailleurs | Humour/reconnaissance fin de semaine — sondage "T'as commencé sous la pluie, tu finis avec un chantier nickel. T'appelles ça comment ?" | Proposé |
+| Ven 27/11 | Story — La vie du BTP | 4 Communauté | Travailleurs | ~~Sondage humour~~ → **remplacé 18/11** : quiz « Une banche, c'est quoi ? » (Canva DAHbQhMTWO0) | Proposé |
 
 **Hooks utilisés :** "TON ANNONCE NE SONNE PAS ?" · "LE SAVAIS-TU ?" (hiver/métiers) · "T'AS COMMENCÉ LA SEMAINE À 7H SOUS LA PLUIE"
 **Mécaniques :** sondage passé/concret · révélation chiffre + retournement narrative · info contre-intuitive saison · sondage humour fin de semaine
-**Sujets à ne pas recycler :** comment trouver un chantier (passé/actuel) · gratuité OVRIA · chiffre 65% difficulté recrutement · annonce BTP qui ne fonctionne pas · saisonnalité métiers intérieurs
+Dossier stories finalisé (Canva) : `contenus/calendrier/2026-11-18_dossier-stories-semaine-23-27-novembre.md`
+
+**Sujets à ne pas recycler :** neuf vs réno · aide apprenti 5 000 € · vocabulaire banche · comment trouver un chantier (passé/actuel) · gratuité OVRIA · chiffre 65% difficulté recrutement · annonce BTP qui ne fonctionne pas · saisonnalité métiers intérieurs
 
 ---
 
@@ -54,7 +56,11 @@ Fichier stories : `contenus/scripts/2026-11-24_story_semaine-24-28-novembre.md`
 | Sondage "historique" (passé/concret) | Lun 23/11 |
 | Retournement statistique (65% = c'est toi qu'on cherche) | Mar 24/11 |
 | Info contre-intuitive saisonnière | Mer 25/11 |
-| Sondage humour fin de semaine | Ven 27/11 |
+| Sondage humour fin de semaine | Ven 27/11 (abandonné) |
+| Curseur emoji « Tu conseillerais ton métier ? » | Story 17/11 (Canva) |
+| Sondage dilemme identité métier (neuf / réno, 2 photos) | Lun 23/11 |
+| Info aide embauche apprenti + sondage intention entreprises | Mer 25/11 |
+| Quiz vocabulaire chantier (banche) | Ven 27/11 |
 
 ---
 
